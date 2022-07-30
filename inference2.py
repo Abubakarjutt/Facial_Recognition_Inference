@@ -47,7 +47,6 @@ import pandas as pd
 import PIL
 import face_recognition
 import face_detection
-from keras.models import load_model
 import pickle
 from datetime import datetime
 import distutils.dir_util
